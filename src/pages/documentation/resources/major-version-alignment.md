@@ -1,3 +1,8 @@
+---
+title: Aligning major version releases for the Adobe Experience Platform Mobile SDKs
+description: Learn how Adobe is aligning its major releases for Adobe Experience Platform Mobile SDK with Apple's changing requirements.
+---
+
 # Aligning major version releases for the Adobe Experience Platform Mobile SDKs
 
 *June 14, 2023* - Adobe has recently released released major version 4 of its Adobe Experience Platform Mobile SDKs for iOS ("Mobile SDKs"). This article aims to address some of the questions we anticipate will exist around the new release.

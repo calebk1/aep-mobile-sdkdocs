@@ -1,3 +1,13 @@
+---
+title: Migrate from Analytics mobile extension to Adobe Experience Platform Edge Network
+description: Learn how to migrate from the Adobe Analytics mobile extension to the Adobe Experience Platform Edge Network extension.
+keywords:
+- Adobe Analytics
+- Adobe Experience Platform Edge Network
+- Migration
+- Tutorial
+---
+
 # Migrate from Analytics mobile extension to Adobe Experience Platform Edge Network
 
 ## Overview

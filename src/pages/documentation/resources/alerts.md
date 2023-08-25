@@ -1,3 +1,6 @@
+---
+noIndex: true
+---
 
 <!-- InlineNestedAlert - Warning for dynamic dependency versions: Android Gradle -->
 <Variant platform="android-gradle" componentClass="InlineNestedAlert" repeat="1"/>

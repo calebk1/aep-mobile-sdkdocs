@@ -1,3 +1,13 @@
+---
+title: Places overview
+description: An overview for the Places mobile extension.
+keywords:
+- Adobe Experience Platform
+- Adobe Journey Optimizer
+- Places
+- Tutorial
+---
+
 # Places Service event forwarding to Adobe Experience Platform
 
 ## Capabilities

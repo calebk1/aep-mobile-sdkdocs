@@ -1,3 +1,14 @@
+---
+title: Signal extension and Rules Engine integration
+description: Learn how to integrate the Signal extension with Rules Engine.
+keywords:
+- Mobile Core
+- Rules Engine
+- Rules Engine for Mobile Core
+- Signal
+- Signal for Mobile Core
+---
+
 # Signal extension and Rules Engine integration
 
 The rules that you set up can use the available triggers and conditions, which result in one of the following actions:

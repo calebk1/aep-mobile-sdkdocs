@@ -1,8 +1,16 @@
-# ACP SDKs end-of-support
+---
+title: Adobe Cloud Platform SDKs end-of-support
+description: A guide detailing the end-of-support for the ACP-prefixed extensions.
+keywords:
+- End-of-support
+- Guide
+---
+
+# Adobe Cloud Platform (ACP) SDKs end-of-support
 
 ## End of support for ACP iOS SDKs and Wrappers
 
-Since April 25, 2023, [Apple has required](https://developer.apple.com/news/?id=jd9wcyov) apps submitted to the App Store to be built with Xcode 14.1 or later. The Experience Platform Mobile SDKs and extensions outlined below were built with prior versions of Xcode and are no longer compatible with iOS and iPadOS given Apple’s current App Store requirements. Consequently, on **August 31, 2023**, Adobe will be deprecating support for the following Experience Platform Mobile SDKs and wrapper extensions:
+Since April 25, 2023, [Apple has required](https://developer.apple.com/news/?id=jd9wcyov) apps submitted to the App Store to be built with Xcode 14.1 or later. The Experience Platform Mobile SDKs and extensions outlined below were built with prior versions of Xcode and are no longer compatible with iOS and iPadOS given Apple's current App Store requirements. Consequently, on **August 31, 2023**, Adobe will be deprecating support for the following Experience Platform Mobile SDKs and wrapper extensions:
 
 * [ACP iOS SDK](https://developer.adobe.com/client-sdks/previous-versions/documentation/sdk-versions/#ios)
 * [Cordova](https://developer.adobe.com/client-sdks/previous-versions/documentation/sdk-versions/#cordova)
