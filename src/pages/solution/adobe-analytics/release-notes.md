@@ -8,6 +8,28 @@ keywords:
 
 # Release notes
 
+## February 10, 2025
+
+### Android Analytics 3.0.2
+
+* Added support for the new `MobileCore.initialize` API introduced in Core.
+
+## June 27, 2024
+
+### iOS Analytics 5.0.2
+
+* Fixed a bug where Places region ID and name were not included in the Analytics request if the Places data contained non-string values.
+
+### Android Analytics 3.0.1
+
+* Fixed a bug where Places region ID and name were not included in the Analytics request if the Places data contained non-string values.
+
+## May 28, 2024
+
+### iOS Analytics 5.0.1
+
+* Fixed an issue in Analytics hit processor and now it retries hits on recoverable URLErrors shared by Mobile Core.
+
 ## April 2, 2024
 
 ### Android Analytics 3.0.0

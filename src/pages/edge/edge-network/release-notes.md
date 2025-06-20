@@ -8,6 +8,74 @@ keywords:
 
 # Release notes
 
+## March 28, 2025
+
+### React Native Edge 7.0.0
+
+* Updated to use BOM [(Bill of Materials)](https://central.sonatype.com/artifact/com.adobe.marketing.mobile/sdk-bom) for Android SDK dependencies.
+
+## March 4, 2025
+
+### Flutter Edge 5.0.0
+
+* Update to use BOM [(Bill of Materials)](https://central.sonatype.com/artifact/com.adobe.marketing.mobile/sdk-bom) for Android SDK dependencies.
+* Update tests to handle the deprecation warning for `setMockMethodCallHandler`.
+
+## February 25, 2025
+
+### Android Edge 3.0.2
+
+* Added support for recoverable error codes from Edge Network.
+
+## February 10, 2025
+
+### Android Edge 3.0.1
+
+* Added support for the new `MobileCore.initialize` API introduced in Core.
+
+## October 16, 2024
+
+### iOS Edge 5.0.3
+
+* Adds 507 as recoverable error code and applies valid retry-after timeout values on next retry if provided on the response, otherwise applies default timeout.
+
+## June 6, 2024
+
+### React Native Edge 6.0.2
+
+* Updated typescript files to support strict null checks.
+
+## May 28, 2024
+
+### iOS Edge 5.0.2
+
+* Fixed an issue in Edge hit processor and now it retries hits on recoverable URLErrors shared by Mobile Core.
+
+## May 13, 2024
+
+### Flutter Edge 4.1.0
+
+* Added support to customize datastream configurations on a per-event basis using the sendEvent API.
+* Update environment dependencies in pubspec.
+
+## May 2, 2024
+
+### iOS Edge 5.0.1
+
+* Edge requests now retrieve the configuration state at the time the requests are queued, instead of at the time the requests are sent.
+
+## April 24, 2024
+
+### React Native Edge 6.0.1
+
+* Added namespace support to the Android module.
+
+## April 23, 2024
+
+### Flutter Edge 4.0.1
+
+* Added namespace support to the Android module.
+
 ## April 16, 2024
 
 ### Flutter Edge 4.0.0

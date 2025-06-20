@@ -8,6 +8,36 @@ keywords:
 
 # Release notes
 
+## March 28, 2025
+
+### React Native Target 7.0.0
+
+* Updated to use BOM [(Bill of Materials)](https://central.sonatype.com/artifact/com.adobe.marketing.mobile/sdk-bom) for Android SDK dependencies.
+
+## February 25, 2025
+
+### Android Target 3.0.2
+
+* Added checks to prevent crashes caused by unhandled exceptions in user callbacks.
+
+## February 10, 2025
+
+### Android Target 3.0.1
+
+* Added support for the new `MobileCore.initialize` API introduced in Core.
+
+## June 6, 2024
+
+### React Native Target 6.0.2
+
+* Updated typescript files to support strict null checks.
+
+## April 24, 2024
+
+### React Native Target 6.0.1
+
+* Added namespace support to the Android module.
+
 ## April 12, 2024
 
 ### React Native Target 6.0.0
